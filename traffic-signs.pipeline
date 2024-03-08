@@ -163,8 +163,8 @@
             "ui_data": {
               "label": "fine-tuning.ipynb",
               "image": "/notebook/traffic-sign-detection/fine-tune/static/elyra/notebook.svg",
-              "x_pos": 628,
-              "y_pos": 371,
+              "x_pos": 631,
+              "y_pos": 420,
               "description": "Run notebook file"
             }
           },
